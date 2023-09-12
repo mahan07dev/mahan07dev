@@ -2,4 +2,4 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning some codes such as html css and javascript
 - 🧑🏻 I'm still a student
-- 🌐 My Website : https://mahan-07.github.io/myprojects
+- 🌐 My Website : [![Static Badge](https://img.shields.io/badge/Pages-black?logo=GitHub%20Pages&label=GitHub&labelColor=gray)](https://mahan-07.github.io/myprojects/)
