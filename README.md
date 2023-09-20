@@ -4,3 +4,4 @@
 - 🧑🏻 I'm still a student
 - 🌐 My Website : [![Static Badge](https://img.shields.io/badge/Pages-black?logo=GitHub%20Pages&label=GitHub&labelColor=gray)](https://mahan-07.github.io/myprojects/)
 - 👨🏻‍💻 My best projects are in "[mahan-07.github.io](https://mahan-07.github.io/myprojects)" repository.
+- 🆓 If you want free License of some of my Projects send me a Message : [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram)](https://www.telegram.me/Ezio_Auditore00/)
