@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @mahan-07
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning some codes such as html css and javascript
+- 🌱 I’m currently learning some codes such as Html Css Javascript and a bit of React
 - 🌐 Github page : [![Static Badge](https://img.shields.io/badge/Pages-black?logo=GitHub%20Pages&label=GitHub&labelColor=gray)](https://mahan-07.github.io/myprojects/)
 - 👨🏻‍💻 My best projects are in "[mahan-07.github.io](https://github.com/mahan-07/mahan-07.github.io)" repository.
 - 🆓 If you want free License of some of my Projects send me a Message : [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram)](https://www.telegram.me/Ezio_Auditore00/)
