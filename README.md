@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mahan07dev
+# 👋 Hi, I’m @mahan07dev (Temporary inactivity)
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning some codes such as Html, Css, Javascript, React and a bit of Python, C# and ....
 - 🌐 Github page : [![Static Badge](https://img.shields.io/badge/Pages-black?logo=GitHub%20Pages&label=GitHub&labelColor=gray)](https://mahan07dev.github.io/myprojects/)
